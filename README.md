@@ -1,1 +1,1 @@
-# Don't mind this repo its for learnign purpose
+# Don't mind this repo is for learning purpose
